@@ -44,4 +44,3 @@ def calculate_tab(tables):
                multiply+=item_menu["price"]*item_tables["amount"]
     print(multiply)
     return multiply
-calculate_tab([{"id":1,"amount":2},{"id":15,"amount":14}])
